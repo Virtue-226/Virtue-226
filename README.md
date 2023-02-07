@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Goodness Mbah
 - 👀 I’m interested in Mobile and web programming
-- 🌱 I’m currently learningflutter and react
+- 🌱 I’m currently learning flutter and react
 - 💞️ I’m looking to collaborate other people to work on projects
 - 📫 You can reach me via mail mbahgoodness226@gmail.com
 
